@@ -1,4 +1,4 @@
-**
+/**
 * Toggles the LED on and off in its own task/thread.
 */
 // Use only core 1 for demo purposes
